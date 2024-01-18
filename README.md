@@ -1,3 +1,4 @@
+A responsive user interface with HTML and CSS, ensuring optimal display on various devices
 
 ![image](https://github.com/ABhakat81/ANON-Shopping/assets/131858685/96dfd183-f2ff-4a75-a6af-f1f7fbeffdfe)
 
